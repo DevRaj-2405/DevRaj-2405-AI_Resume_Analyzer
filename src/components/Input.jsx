@@ -160,7 +160,7 @@
 
 import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { gemini } from "../Gemini/gemini";
+import { gemini } from "../gemini/gemini";
 import {
     BsFileEarmarkText,
     BsStars,
